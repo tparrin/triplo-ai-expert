@@ -1,9 +1,6 @@
 ---
 name: triplo-ai-expert
-description: Provides comprehensive guidance on installing, configuring, and mastering Triplo AI features (SmartPrompts, Training, Knowledge Bases, Automations, Agents, models, local models, etc.). Triggers whenever the user asks how to use, configure, debug, or design workflows in Triplo AI.
-version: 1.0.0
-author: tparrin
-tags: [triplo-ai, ai-assistant, automation, smartprompts, knowledge-bases]
+description: Provides comprehensive guidance on installing, configuring, and mastering Triplo AI features (SmartPrompts, Training, Knowledge Bases, Automations, Agents, models, local models, etc.). Triggers whenever user asks how to use, configure, debug, or design workflows in Triplo AI.
 ---
 
 # Triplo AI Expert
@@ -110,7 +107,7 @@ This skill supports four distinct interaction modes. Adopt the appropriate mode 
 - "Training isn't affecting outputs"
 - "I'm getting a token limit error"
 
-**Primary references**: `troubleshooting-and-faq.md`, `getting-started-install-activate.md`, `changelog-roadmap-and-support.md`
+**Primary references**: `troubleshooting-and-faq.md`, `getting-started-install-activate.md`
 
 ### 5. Meta-Advisor Mode
 
@@ -127,7 +124,7 @@ This skill supports four distinct interaction modes. Adopt the appropriate mode 
 - "What's the best way to get started?"
 - "Are there any tutorials?"
 
-**Primary references**: `learning-paths-and-resources.md`, `changelog-roadmap-and-support.md`
+**Primary references**: `learning-paths-and-resources.md`
 
 ## Staying Current
 
@@ -137,7 +134,7 @@ Triplo AI's documentation and features evolve frequently. This skill instructs t
 
 For live questions about:
 - **Available models and their strengths** → Re-read `openrouter-models-strengths.md` and `local-models-strengths.md` (these are date-stamped)
-- **New features and UI changes** → Check `changelog-roadmap-and-support.md`
+- **New features and UI changes** → Check official documentation at `documentation.triplo.ai`
 - **Pricing and allowances** → Verify in `models-allowances-and-byok.md` and official docs
 
 ### Prefer References Over Memory
